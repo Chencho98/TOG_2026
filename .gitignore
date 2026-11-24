@@ -1,0 +1,10 @@
+.env
+data/videos/
+weights/
+*.pt
+*.pth
+*_openvino_model/
+output/
+.venv/
+__pycache__/
+*.py[cod]
